@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cade831-38c9-4516-93b8-0ca0f2b9ed2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z6rD846hCOleyKvAckkLnmGJSV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="I:/github原项目/hutubill-master/hutubill1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16105\IdeaProjects\一起来画画\src\img\picture" />
+      <recent name="C:\Users\16105\IdeaProjects\一起来画画\src\img\icon" />
+      <recent name="C:\Users\16105\IdeaProjects\一起来画画\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="一起来画画" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.mr.draw.DrawPictureFrame" />
+      <module name="一起来画画" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cade831-38c9-4516-93b8-0ca0f2b9ed2e" name="Default Changelist" comment="" />
+      <created>1584170262453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584170262453</updated>
+      <workItem from="1584170268031" duration="14470000" />
+      <workItem from="1584234382998" duration="9934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584171551967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584171551967" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1584239778590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584239778590" />
+    <state x="644" y="445" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584171370576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="445" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584171370576" />
+    <state x="714" y="234" key="DetectedRootsChooserDialog" timestamp="1584170575582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="234" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584170575582" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584244562819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584244562819" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584243096188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584243096188" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584243096187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584243096187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584243096187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584243096187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584243096187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584243096187" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1584173282334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584173282334" />
+    <state x="615" y="298" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584173281071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="298" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584173281071" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584242341584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584242341584" />
+  </component>
+</project>
